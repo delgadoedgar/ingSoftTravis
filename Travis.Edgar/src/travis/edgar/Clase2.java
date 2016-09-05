@@ -12,5 +12,6 @@ package travis.edgar;
 public class Clase2 {
     
     String bv = "";
+    String fds="ghfshgcdc";
     
 }
