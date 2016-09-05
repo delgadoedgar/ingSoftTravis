@@ -12,5 +12,8 @@ package travis.edgar;
 public class Nueva {
     
     public int vaf;
+    public String Metodo(){
+        return "Hola";
+    }
     
 }
