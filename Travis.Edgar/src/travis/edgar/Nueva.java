@@ -11,4 +11,6 @@ package travis.edgar;
  */
 public class Nueva {
     
+    public int vaf;
+    
 }
